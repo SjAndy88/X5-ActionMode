@@ -3,7 +3,7 @@
 腾讯X5内核实现长按弹出自定义菜单方法
 https://blog.csdn.net/TLuffy/article/details/109174837#commentBox
 
-###非常感谢博主的文章和帮助
+### 非常感谢博主的文章和帮助
 
 
 上面的解决方案是屏蔽了X5自身的ActionMode，但是自定义的ActionMode是通过js的方式去解决的，那么原生有没有办法解决呢，答案是有的。
